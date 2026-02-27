@@ -21,8 +21,7 @@ AutoMedVis is an AI-powered project designed to generate engaging medical advert
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Chinmay6824/AutoMedVis-Text-to-Video-Ad-Generation.git
-   cd AutoMedVis-Text-to-Video-Ad-Generation
+   git clon https://github.com/Vireshyb/AutoMedVis-Text-to-Video-Ad-Generation/edit/main/README.md
    ```
 
 2. **Install Dependencies:**
@@ -84,7 +83,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaborations, open an issue or contact [Chinmay6824](https://github.com/Chinmay6824).
+For questions or collaborations, open an issue or contact [vireshyb](https://github.com/Vireshyb/AutoMedVis-Text-to-Video-Ad-Generation/edit/main/README.md).
 
 ---
 
